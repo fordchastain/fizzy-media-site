@@ -5,8 +5,8 @@ import { useDocumentMeta } from '../lib/useDocumentMeta'
 const LINKS = [
   {
     label: 'Email',
-    value: 'info@fizzymedia.org',
-    href: 'mailto:info@fizzymedia.org',
+    value: 'fizzymediagames@gmail.com',
+    href: 'mailto:fizzymediagames@gmail.com',
     hint: 'The fastest way to reach me — projects, questions, or just to say hi.',
   },
   {
@@ -97,10 +97,10 @@ export default function Contact() {
       <PixelDivider className="my-16" />
 
       <section className="rounded-2xl border border-line bg-ink-soft/40 p-10 text-center sm:p-14">
-        <h2 className="text-2xl text-paper sm:text-3xl">info@fizzymedia.org</h2>
+        <h2 className="text-2xl text-paper sm:text-3xl">fizzymediagames@gmail.com</h2>
         <p className="mx-auto mt-3 max-w-md text-paper/65">Oklahoma City, OK · Fizzy Media LLC</p>
         <a
-          href="mailto:info@fizzymedia.org"
+          href="mailto:fizzymediagames@gmail.com"
           className="mt-6 inline-block rounded-full bg-fizz-pink px-6 py-3 font-mono text-sm uppercase tracking-wide text-ink transition-transform hover:scale-105"
         >
           Send an email

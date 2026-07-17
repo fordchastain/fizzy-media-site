@@ -5,7 +5,7 @@ const SOCIALS = [
   { label: 'GitHub', href: 'https://github.com/fordchastain' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/stanford-chastain/' },
   { label: 'Bandcamp', href: 'https://fordchastain.bandcamp.com/' },
-  { label: 'Email', href: 'mailto:info@fizzymedia.org' },
+  { label: 'Email', href: 'mailto:fizzymediagames@gmail.com' },
 ]
 
 export default function Footer() {

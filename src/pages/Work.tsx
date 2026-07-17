@@ -77,10 +77,10 @@ export default function Work() {
           Whatever stage your idea is at, I'd rather hear about it too early than too late.
         </p>
         <a
-          href="mailto:info@fizzymedia.org"
+          href="mailto:fizzymediagames@gmail.com"
           className="mt-6 inline-block rounded-full bg-fizz-pink px-6 py-3 font-mono text-sm uppercase tracking-wide text-ink transition-transform hover:scale-105"
         >
-          info@fizzymedia.org
+          fizzymediagames@gmail.com
         </a>
       </section>
     </div>

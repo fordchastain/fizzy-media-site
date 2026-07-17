@@ -38,7 +38,7 @@ export default function Nav() {
         </nav>
 
         <a
-          href="mailto:info@fizzymedia.org"
+          href="mailto:fizzymediagames@gmail.com"
           className="hidden rounded-full border border-fizz-cyan/60 px-4 py-2 font-mono text-sm text-fizz-cyan transition-colors hover:bg-fizz-cyan/10 md:inline-block"
         >
           Get a quote
@@ -74,7 +74,7 @@ export default function Nav() {
               </NavLink>
             ))}
             <a
-              href="mailto:info@fizzymedia.org"
+              href="mailto:fizzymediagames@gmail.com"
               className="mt-2 rounded-lg border border-fizz-cyan/60 px-3 py-2.5 text-center font-mono text-sm text-fizz-cyan"
             >
               Get a quote

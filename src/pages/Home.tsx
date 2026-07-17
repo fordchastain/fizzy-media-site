@@ -67,7 +67,7 @@ export default function Home() {
               See the work
             </Link>
             <a
-              href="mailto:info@fizzymedia.org"
+              href="mailto:fizzymediagames@gmail.com"
               className="rounded-full border border-paper/30 px-6 py-3 font-mono text-sm uppercase tracking-wide text-paper transition-colors hover:border-fizz-cyan hover:text-fizz-cyan"
             >
               Get a quote
@@ -176,10 +176,10 @@ export default function Home() {
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-4">
           <a
-            href="mailto:info@fizzymedia.org"
+            href="mailto:fizzymediagames@gmail.com"
             className="rounded-full bg-fizz-pink px-6 py-3 font-mono text-sm uppercase tracking-wide text-ink transition-transform hover:scale-105"
           >
-            info@fizzymedia.org
+            fizzymediagames@gmail.com
           </a>
           <Link
             to="/contact"
